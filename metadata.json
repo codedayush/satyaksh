@@ -1,0 +1,6 @@
+{
+  "name": "SATYAKSH",
+  "description": "Public accountability and financial intelligence platform for tracking MPLADS funds, MPs, constituencies, projects and expenditure. See Where Public Money Goes.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
